@@ -1,0 +1,43 @@
+﻿  Somi'sAdventure.cpp
+  Application.cpp
+D:\Study\STUDY\y4\20221\PJ3\PJ3\Somi'sAdventure\JackAdventure\Sources\Application.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  PSDeath.cpp
+  ScoreManager.cpp
+  GameStateBase.cpp
+  GameStateMachine.cpp
+  GSAbout.cpp
+D:\Study\STUDY\y4\20221\PJ3\PJ3\Somi'sAdventure\JackAdventure\Sources\GameStateManager\GSAbout.cpp(39,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GSEnd.cpp
+D:\Study\STUDY\y4\20221\PJ3\PJ3\Somi'sAdventure\JackAdventure\Sources\GameStateManager\GSEnd.cpp(58,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GSHighScore.cpp
+D:\Study\STUDY\y4\20221\PJ3\PJ3\Somi'sAdventure\JackAdventure\Sources\GameStateManager\GSHighScore.cpp(49,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Study\STUDY\y4\20221\PJ3\PJ3\Somi'sAdventure\JackAdventure\Sources\GameStateManager\GSHighScore.cpp(63,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GSIntro.cpp
+  GSMenu.cpp
+D:\Study\STUDY\y4\20221\PJ3\PJ3\Somi'sAdventure\JackAdventure\Sources\GameStateManager\GSMenu.cpp(83,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GSPlay.cpp
+  GSSetting.cpp
+D:\Study\STUDY\y4\20221\PJ3\PJ3\Somi'sAdventure\JackAdventure\Sources\GameStateManager\GSSetting.cpp(56,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+  JackAdventure.vcxproj -> D:\Study\STUDY\y4\20221\PJ3\PJ3\Somi'sAdventure\Debug\Somi'sAdventure.exe
